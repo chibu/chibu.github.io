@@ -1,0 +1,3 @@
+[submodule "CookieCruncher"]
+	path = CookieCruncher
+	url = https://github.com/chibu/CookieCruncher.git
